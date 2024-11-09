@@ -5,11 +5,17 @@ STA Coding Challenge Web
 ## Table of Contents
 
 - Introduction
+- How to run tests
 - Design Decision
 
 ## Introduction
 
 This repo provides solution for STA Coding Challenge - Web
+
+## How to run tests
+
+``bash
+ dotnet test .\TestProjectJP.Tests.csproj --settings .\func.runsettings
 
 ## Design Decision
 
