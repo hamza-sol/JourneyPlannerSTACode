@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="Browser" value="Edge" />
+		<Parameter name="TimeOutInSeconds" value="30" />
+		<Parameter name="HomePageUrl" value="https://tfl.gov.uk/" />
+	</TestRunParameters>
+</RunSettings>
